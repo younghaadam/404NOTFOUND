@@ -1,0 +1,62 @@
+header > p {
+    font-size: 24px;
+    font-weight: 700px;
+    font-family: 'Inconsolata', monospace;
+}
+
+header {
+    margin-left: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 68px;
+
+}
+
+#page-img {
+    width: 100%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.img-container {
+    margin-right: 60px;
+}
+
+.tittle {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700px;
+    font-size: 64px ;
+    color: #4f4f4f;
+    
+}
+
+#intro-text {
+     font-family: 'Space Mono', monospace;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 35.54px;
+    
+}
+
+#home-button {
+    
+    background-color: #333333;
+    color: white;
+    height: 68px;
+    padding: 20px;
+
+}
+
+footer > p {
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+    background-color: aquamarine;
+    }
+}
