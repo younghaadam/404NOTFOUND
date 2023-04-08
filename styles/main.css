@@ -59,4 +59,39 @@ footer > p {
     body {
     background-color: aquamarine;
     }
-}
+
+    img {
+        position: absolute;
+        top: 100px;
+        width: 57px;
+        left: 42px;
+    }
+
+    .tittle {
+        margin-top: 290px;
+        font-family: 'Space Mono', monospace;
+        width: 350px;
+        font-size: 48px;
+        line-height: 71px;
+        font-weight: 700px;
+    }
+} 
+
+
+
+
+
+
+margin-top: 290px;
+        font-family: 'Space Mono', monospace;
+        width: 350px;
+        font-size: 48px;
+        line-height: 71px;
+        font-weight: 700px;
+
+
+position: absolute;
+width: 350px;
+height: 142px;
+left: 24px;
+top: 407px;
